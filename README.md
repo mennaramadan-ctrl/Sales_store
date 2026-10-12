@@ -63,7 +63,7 @@ The final deliverable is an interactive **Power BI dashboard** that allows filte
 
 | Team Member                  | Role                                              |
 |------------------------------|---------------------------------------------------|
-| ⭐️ **Iman Ramadan**          | Team Leader · Presentation · Project Coordination |
+| ⭐️ **Eman Ramadan**          | Team Leader · Presentation · Project Coordination |
 | ⭐️ **Rana Mohamed Ismail**   | Dashboard Development & Dashboard Design          |
 | ⭐️ **Taqi Abdel Muttalib**   | DAX Measures & Calculations                       |
 | ⭐️ **Salma Mohamed**         | Data Cleaning · Data Preparation · Data Storage   |
