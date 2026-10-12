@@ -1,3 +1,90 @@
+
+🛍️ SALES STORE ANALYSIS
+
+DATA ANALYSIS PROJECT
+
+Excel | SQL | Python | Power BI
+
+━━━━━━━━━━━━━━━━━━━━
+
+📌 PROJECT DESCRIPTION
+
+Analyzing store sales data to understand sales performance, identify top-selling products, and evaluate revenue and profit.
+
+🎯 PROJECT OBJECTIVES
+
+- Analyze sales and profit.
+- Identify best-selling products.
+- Discover sales trends.
+- Create an interactive dashboard.
+- Provide useful business insights.
+
+🛠️ TOOLS
+
+📊 Excel — Data Cleaning & Analysis
+
+💻 SQL — Data Queries & Analysis
+
+🐍 Python — Data Processing & Analysis
+
+📈 Power BI — Interactive Dashboard
+
+🔄 PROJECT FLOW
+
+01. Data Collection
+
+⬇️
+
+02. Data Cleaning
+
+⬇️
+
+03. Data Analysis
+
+⬇️
+
+04. Data Visualization
+
+⬇️
+
+05. Insights & Recommendations
+
+👥 TEAM MEMBERS
+
+👑 Eman Ramadan
+
+Team Leader
+
+🔹 Rana Mohamed Ismail
+
+Data Cleaning
+
+🔹 Taqi Abdel Motaleb
+
+SQL Analysis
+
+🔹 Salma Mohamed
+
+Python Analysis
+
+🔹 Basmala Gamal
+
+Power BI Dashboard
+
+🎓 INSTRUCTOR
+
+Eng. Mohamed Asim
+
+━━━━━━━━━━━━━━━━━━━━
+
+💙 FROM DATA TO DECISIONS
+
+
+
+
+
+
+
 🛍️ SALES STORE ANALYSIS PROJECT
 
 ✦ Turning Data into Decisions ✦
